@@ -382,6 +382,10 @@
   }
 }
 @media only screen and (max-width: 670px) {
+  .hero-intro h1 {
+    font-size: 40px;
+    /* margin-top: 80px !important; */
+  }
   .branding h3,
   .branding h4,
   .branding p {
